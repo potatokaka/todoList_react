@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/potatokaka/todoList_react/precache-manifest.9c620cceeff861a13c7aee5fbddf9fda.js"
+  "/potatokaka/todoList_react/precache-manifest.067940d3283071e59cae612af6574266.js"
 );
 
 self.addEventListener('message', (event) => {

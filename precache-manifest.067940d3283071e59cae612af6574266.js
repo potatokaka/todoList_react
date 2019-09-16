@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e8baa3098a49d13a55afe01f909bd63",
+    "revision": "df47e532d99cb9655b3d5a8b99ab2992",
     "url": "/potatokaka/todoList_react/index.html"
   },
   {
